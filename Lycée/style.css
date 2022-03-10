@@ -1,0 +1,64 @@
+.Presentation{
+    font-family: arial;
+    font-size: 14px;
+    color: #000000;
+    text-align:left;
+}
+
+.Français{
+    font-family: verdana;
+    font-size: 14px;
+    color: #2323f5;
+    text-align:left;
+
+}
+
+
+.HistGeo{
+    font-family: verdana;
+    font-size: 14px;
+    color: #6060f3;
+    text-align:left;
+}
+
+.Math{
+    font-family: verdana;
+    font-size: 14px;
+    color: #f70303;
+    text-align:left;
+}
+
+.PhyChi{
+    font-family: verdana;
+    font-size: 14px;
+    color: #38bff5;
+    text-align:left;
+}
+
+.SVT{
+    font-family: verdana;
+    font-size: 14px;
+    color: #047009;
+    text-align:left;
+}
+
+.EPS{
+    font-family: verdana;
+    font-size: 14px;
+    color: #fa4c07fb;
+    text-align:left;
+}
+
+.SES{
+    font-family: verdana;
+    font-size: 14px;
+    color: #6060f3;
+    text-align:left;
+}
+
+.SNT{
+    font-family: verdana;
+    font-size: 14px;
+    color: #fa4c07fb;
+    text-align:left;
+}
